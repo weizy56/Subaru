@@ -16,3 +16,18 @@
 	width: 100%;
 	margin-bottom: 50px;
 }
+
+
+#item{
+	border-radius: 5px;
+	border: 0px;
+	margin: 25px;
+	background-color:goldenrod;
+	min-height: 210px;
+	width: 210px;
+}
+.column{
+	margin: 30px;
+	padding: 30px;
+	float: left ;
+}
